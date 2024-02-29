@@ -1,7 +1,7 @@
 # Computational Statistics
 This repository showcases lab assignments completed in Computational Statistics course. 
 
-**Welcome!** This repository contains my lab assignments from the **Computational Statistics** course. 
+**Welcome!** This repository contains my lab assignments from the **Computational Statistics** course. All the labs are done in collaboration with my classmate Dinesh Sundaramoorthy since is group task.
 
 **What will you find here?**
 
