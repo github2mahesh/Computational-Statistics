@@ -1,6 +1,6 @@
 ---
 title: "Computer Lab1"
-author: "Dinesh and Umamaheswarababu Maddela"
+author: "Umamaheswarababu Maddela and Dinesh Sundaramoorthy"
 date: "2023-01-17"
 output:
   html_document:
